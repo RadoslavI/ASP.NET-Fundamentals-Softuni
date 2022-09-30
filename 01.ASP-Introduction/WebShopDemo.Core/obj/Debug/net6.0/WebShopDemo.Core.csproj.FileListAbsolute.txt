@@ -1,0 +1,15 @@
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\bin\Debug\net6.0\WebShopDemo.Core.deps.json
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\bin\Debug\net6.0\WebShopDemo.Core.dll
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\bin\Debug\net6.0\WebShopDemo.Core.pdb
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.dll
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\refint\WebShopDemo.Core.dll
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.pdb
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\ref\WebShopDemo.Core.dll
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\bin\Debug\net6.0\Data\products.json
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\bin\Debug\net6.0\WebShopDemo.Core.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\01.ASP-Introduction\WebShopDemo.Core\obj\Debug\net6.0\WebShopDemo.Core.genruntimeconfig.cache
