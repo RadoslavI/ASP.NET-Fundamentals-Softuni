@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 using WebShopDemo.Core.Contracts;
 using WebShopDemo.Core.Data.Common;
 using WebShopDemo.Core.Data.Models;
+using WebShopDemo.Core.Migrations;
 using WebShopDemo.Core.Models;
 
 namespace WebShopDemo.Core.Services
@@ -47,6 +48,19 @@ namespace WebShopDemo.Core.Services
             await repo.SaveChangesAsync();
         }
 
+        public async Task Delete(Guid id)
+        {
+            var product = await repo.All<Product>()
+                .FirstOrDefaultAsync(p => p.Id == id);
+
+            if (product != null)
+            {
+                product.IsActive = false;
+
+                await repo.SaveChangesAsync();
+            }
+        }
+
         /// <summary>
         /// Gets all products
         /// </summary>
@@ -54,6 +68,7 @@ namespace WebShopDemo.Core.Services
         public async Task<IEnumerable<ProductDto>> GetAll()
         {
             return await repo.AllReadonly<Product>()
+                .Where(p => p.IsActive)
                 .Select(p => new ProductDto()
                 {
                     Id = p.Id,
