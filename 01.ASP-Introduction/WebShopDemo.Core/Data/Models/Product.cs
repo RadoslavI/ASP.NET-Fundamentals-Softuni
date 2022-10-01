@@ -28,5 +28,8 @@ namespace WebShopDemo.Core.Data.Models
         [Comment("Products in stock")]
         [Required]
         public int Quantity { get; set; }
+
+        [Comment("Product status")]
+        public bool IsActive { get; set; } = true;
     }
 }

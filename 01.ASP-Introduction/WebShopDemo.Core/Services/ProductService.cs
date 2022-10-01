@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using WebShopDemo.Core.Contracts;
 using WebShopDemo.Core.Data.Common;
@@ -25,6 +26,7 @@ namespace WebShopDemo.Core.Services
             IRepository _repo)
         {
             this.config = _config;
+            this.repo = _repo;
         }
 
         /// <summary>
@@ -51,10 +53,15 @@ namespace WebShopDemo.Core.Services
         /// <returns>List of products</returns>
         public async Task<IEnumerable<ProductDto>> GetAll()
         {
-            string dataPath = config.GetSection("DataFiles:Products").Value;
-            string data = await File.ReadAllTextAsync(dataPath);
-
-            return JsonConvert.DeserializeObject<IEnumerable<ProductDto>>(data);
+            return await repo.AllReadonly<Product>()
+                .Select(p => new ProductDto()
+                {
+                    Id = p.Id,
+                    Name = p.Name,
+                    Price = p.Price,
+                    Quantity = p.Quantity
+                })
+                .ToListAsync();
         }
     }
 }
