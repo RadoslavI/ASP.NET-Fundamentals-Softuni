@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj": {}
+    "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj": {
+    "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj",
         "projectName": "WebShopDemo.Core",
-        "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj",
-        "packagesPath": "C:\\Users\\saske\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\obj\\",
+        "projectPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj",
+        "packagesPath": "C:\\Users\\Radoslav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\saske\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Radoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,8 +77,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -91,25 +86,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj": {
+    "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj",
         "projectName": "WebShopDemo",
-        "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj",
-        "packagesPath": "C:\\Users\\saske\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo\\obj\\",
+        "projectPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo\\WebShopDemo.csproj",
+        "packagesPath": "C:\\Users\\Radoslav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\saske\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Radoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,8 +114,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj": {
-                "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj"
+              "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj": {
+                "projectPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\01.ASP-Introduction\\WebShopDemo.Core\\WebShopDemo.Core.csproj"
               }
             }
           }
@@ -174,8 +165,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -187,7 +177,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
