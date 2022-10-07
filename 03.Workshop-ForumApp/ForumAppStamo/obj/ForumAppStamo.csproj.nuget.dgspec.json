@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj": {}
+    "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj": {
+    "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj",
+        "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj",
         "projectName": "ForumAppStamo",
-        "projectPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj",
-        "packagesPath": "C:\\Users\\Radoslav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\obj\\",
+        "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\ForumAppStamo.csproj",
+        "packagesPath": "C:\\Users\\saske\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\03.Workshop-ForumApp\\ForumAppStamo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Radoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saske\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +71,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -79,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

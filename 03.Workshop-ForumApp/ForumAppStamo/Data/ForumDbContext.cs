@@ -14,6 +14,9 @@ namespace ForumAppStamo.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfiguration<Post>(new PostConfiguration());
+            builder.Entity<Post>()
+                .Property(p => p.IsDeleted)
+                .HasDefaultValue(false);
 
             base.OnModelCreating(builder);
         }
