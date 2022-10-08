@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForumApp", "WebApplication1\ForumApp.csproj", "{FDC54F0A-C1C6-4CD7-B145-FC0B5175F21D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForumAppStamo", "ForumAppStamo\ForumAppStamo.csproj", "{395C4A2C-3021-4A9C-957D-5EE9C1820DC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForumAppStamo", "ForumAppStamo\ForumAppStamo.csproj", "{395C4A2C-3021-4A9C-957D-5EE9C1820DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrditCalc", "CrditCalc\CrditCalc.csproj", "{C34A98EC-F974-470C-AC7D-832EB5985CA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{395C4A2C-3021-4A9C-957D-5EE9C1820DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{395C4A2C-3021-4A9C-957D-5EE9C1820DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{395C4A2C-3021-4A9C-957D-5EE9C1820DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C34A98EC-F974-470C-AC7D-832EB5985CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34A98EC-F974-470C-AC7D-832EB5985CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34A98EC-F974-470C-AC7D-832EB5985CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34A98EC-F974-470C-AC7D-832EB5985CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

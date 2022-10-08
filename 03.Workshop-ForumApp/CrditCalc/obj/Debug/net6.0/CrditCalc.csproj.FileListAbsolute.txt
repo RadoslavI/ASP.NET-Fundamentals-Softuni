@@ -1,0 +1,15 @@
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\bin\Debug\net6.0\CrditCalc.exe
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\bin\Debug\net6.0\CrditCalc.deps.json
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\bin\Debug\net6.0\CrditCalc.runtimeconfig.json
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\bin\Debug\net6.0\CrditCalc.dll
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\bin\Debug\net6.0\CrditCalc.pdb
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.csproj.AssemblyReference.cache
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.AssemblyInfoInputs.cache
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.AssemblyInfo.cs
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.csproj.CoreCompileInputs.cache
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.dll
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\refint\CrditCalc.dll
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.pdb
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\CrditCalc.genruntimeconfig.cache
+C:\Users\saske\Documents\GitHub\ASP.NET-FUNDAMENTALS-Softuni\03.Workshop-ForumApp\CrditCalc\obj\Debug\net6.0\ref\CrditCalc.dll
