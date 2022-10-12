@@ -7,7 +7,7 @@
             Console.WriteLine("How much credits do you need?");
             int inputCredits = int.Parse(Console.ReadLine());
 
-            int creditDailyCurr = 9;
+            int creditDailyCurr = 10;
             int crditConst = 5;
             int creditTotal = 127;
             int daysNeeded = 0;
