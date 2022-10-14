@@ -5,8 +5,8 @@
         public class User
         {
             public const int MaxUserFirstName = 15;
-
             public const int MaxUserLastName = 15;
+            public const int MaxUserUsername = 15;
         }
 
         public class Task
