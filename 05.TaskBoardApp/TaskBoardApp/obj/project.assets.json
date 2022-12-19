@@ -10291,24 +10291,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saske\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Radoslav\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\05.TaskBoardApp\\TaskBoardApp\\TaskBoardApp.csproj",
+      "projectUniqueName": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\05.TaskBoardApp\\TaskBoardApp\\TaskBoardApp.csproj",
       "projectName": "TaskBoardApp",
-      "projectPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\05.TaskBoardApp\\TaskBoardApp\\TaskBoardApp.csproj",
-      "packagesPath": "C:\\Users\\saske\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saske\\Documents\\GitHub\\ASP.NET-FUNDAMENTALS-Softuni\\05.TaskBoardApp\\TaskBoardApp\\obj\\",
+      "projectPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\05.TaskBoardApp\\TaskBoardApp\\TaskBoardApp.csproj",
+      "packagesPath": "C:\\Users\\Radoslav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Radoslav\\Documents\\GitHub\\ASP.NET-Fundamentals-Softuni\\05.TaskBoardApp\\TaskBoardApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\saske\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Radoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10380,7 +10375,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
